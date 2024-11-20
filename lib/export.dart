@@ -9,5 +9,4 @@ export 'package:get/get.dart';
 export 'main.dart';
 export 'routes.dart';
 export 'core/export.dart';
-export 'modules/export.dart';
 export 'services/export.dart';
